@@ -1,0 +1,20 @@
+[
+    {
+        "ID": "101",
+        "Name": "Wireless Headphones",
+        "prices": "$49.99",
+        "colors": "Available colors: Black, White, Blue"
+    },
+    {
+        "ID": "102",
+        "Name": "Smart Speaker",
+        "prices": "$89.99",
+        "colors": "Available colors: Grey, Black"
+    },
+    {
+        "ID": "103",
+        "Name": "Smart Watch",
+        "prices": "$149.99",
+        "colors": "Available colors: Black, Silver, Gold"
+    }
+]
